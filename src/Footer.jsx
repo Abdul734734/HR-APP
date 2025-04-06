@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Footer = () => {
-    return ( <div><footer><p>copyright REACTK25</p></footer></div>
+    return ( <div><footer><p>Copyright all rights reserved REACTK25</p></footer></div>
     );
 };
 
