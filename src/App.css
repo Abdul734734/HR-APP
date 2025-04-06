@@ -1,0 +1,58 @@
+* {
+  margin: auto;
+  box-sizing: border-box;
+  padding: auto;
+}
+
+header {
+  height: 50px;
+  background-color: bisque;
+}
+.person {
+  height: 50vh;
+  background-color: aquamarine;
+}
+
+footer {
+  padding: 10px 0px;
+  background-color: cadetblue;
+}
+
+footer p {
+  text-align: center;
+  font-size: 16px;
+  color: aliceblue;
+}
+.person-card {
+  padding: 16px;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+  margin: 20px auto;
+  font-family: Arial, sans-serif;
+}
+
+.person-name {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+.person-title {
+  color: #555;
+  margin-bottom: 8px;
+}
+
+.person-salary {
+  color: #2e7d32;
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+.person-phone,
+.person-email,
+.person-animal {
+  color: #444;
+  margin-bottom: 4px;
+}
